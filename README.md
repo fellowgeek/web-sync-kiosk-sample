@@ -44,8 +44,6 @@ Both pages are fully responsive and touch-friendly, using only HTML, CSS, and Ja
 
 For more information on enabling Kiosk Mode and remote events, see the [Web Sync documentation](https://justshare.me/web-sync/documentation#3-enabling-and-using-kiosk-mode).
 
-Here’s a cleaner version:
-
 ## Test URLs
 
 Use the links below to test Web Sync kiosk events:
